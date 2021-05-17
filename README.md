@@ -4,13 +4,14 @@
 
 ---
 
-<html>
+
   <head>
   <style>
     background-color: #00e4ff;
     border: 6px groove #bce802;
     cursor: none;
   </style>
+  
   </head>
   <body>
     <details>
@@ -28,7 +29,7 @@
      <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
   </body>
-</html>
+
 
 
 
