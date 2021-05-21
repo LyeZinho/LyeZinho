@@ -1,7 +1,8 @@
 <h1>
   ✨-Programador 
+</h1>
   
-  
+<h2>
   📕 -Linguagens
   
   
@@ -17,5 +18,4 @@
   -Css
   
   -Html
-  
-</h1>
+</h2>
