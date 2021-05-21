@@ -3,19 +3,19 @@
 </h1>
   
 <h2>
-  📕 -Linguagens
+ 📕 -Linguagens- 📕
   
   
   
-  -JavaScript
+ -JavaScript
   
-  -C
+ -C
   
-  -C#
+ -C#
   
-  -Python
+ -Python
   
-  -Css
+-Css
   
-  -Html
+-Html
 </h2>
