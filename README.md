@@ -1,21 +1,20 @@
-<h1>
-  ✨-Programador 
-</h1>
-  
-<h2>
- 📕 -Linguagens- 📕
+
+###✨-Programador 
+
+
+##📕 -Linguagens- 📕
   
   ---
   
- -JavaScript
+ #-JavaScript
   
- -C
+ #-C
   
- -C#
+ #-C#
   
- -Python
+ #-Python
   
--Css
+#-Css
   
--Html
-</h2>
+#-Html
+
