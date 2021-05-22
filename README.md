@@ -3,8 +3,6 @@
 
 ## 📕 -Linguagens- 📕
   
- ---
-  
 -JavaScript
 
 -C
