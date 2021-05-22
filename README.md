@@ -1,20 +1,19 @@
+# ✨-Programador 
 
-###✨-Programador 
 
+## 📕 -Linguagens- 📕
+  
+ ---
+  
+-JavaScript
 
-##📕 -Linguagens- 📕
+-C
   
-  ---
+-C#
+
+-Python
+
+-Css
   
- #-JavaScript
-  
- #-C
-  
- #-C#
-  
- #-Python
-  
-#-Css
-  
-#-Html
+-Html
 
