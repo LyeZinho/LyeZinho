@@ -3,15 +3,18 @@
  📜 Im are a programing studant  
  
 
-![Anurag's GitHub stats]()
-<img src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true"/>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true" alt="mmddkk6500" /></p>
 
 📖 My most used programing languages 📖
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark" alt="mmddkk6500" /></p>
 
 📦 Framworks that i use 📦
 
