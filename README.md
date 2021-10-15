@@ -3,8 +3,8 @@
  📜 Im are a programing studant  
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true)
-
+![Anurag's GitHub stats]()
+<img src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true"/>
 
 
 📖 My most used programing languages 📖
