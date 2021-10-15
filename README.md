@@ -1,7 +1,6 @@
   <h1 align="center">Lye Zinho</h1>
   
-  <hr />
-  
+
   📚 Hi im Pedro Kaleb i am a junior Developer 📚
   
  📜 Im are a programing studant  
