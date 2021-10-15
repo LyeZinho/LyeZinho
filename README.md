@@ -1,4 +1,4 @@
-  📚 Hi im Pedro Kaleb i am a junior Developer📚
+  📚 Hi im Pedro Kaleb i am a junior Developer 📚
   
   Im studyng prgraming in my professional course im are AEBatalha studant
   im learning a lot of things and i need to create my gitub acoount to save 
