@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📦 -Frameworks- 📦
+📦 Framworks that i use 📦
 
-- .Net
+◾ .Net
 
-- Boostrap
+◾ Boostrap
