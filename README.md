@@ -21,25 +21,8 @@
 
 📦 Framworks that i use 📦
 
-◾ .Net
 
-◾ Boostrap
+| javaScript |   c#   |   VB   |   
+| ---------- | ------ | ------ |
+| Boostrap   |  .NET  |  .NET  |
 
-<table>
-<tbody>
-<tr>
-<td>&nbsp;</td>
-  Java script
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-  Boostrap
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
