@@ -1,9 +1,13 @@
   <h1 align="center">Lye Zinho</h1>
   
 
-  📚 Hi im Pedro Kaleb i am a junior Developer 📚
+  📚 Hi im Pedro Kaleb i am a junior Developer
+  
   
  📜 Im are a programing studant  
+ 
+ <img src="https://github.com/leopiccionia/programmicons/blob/master/src/c.svg" alt="Girl in a jacket" width="500" height="600">
+ 
  
 
 
