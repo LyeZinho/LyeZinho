@@ -16,7 +16,7 @@
  📖 I Want to learn
 
  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mongodb.svg" alt="mongodb" width="50" height="60">
- <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60">
+
  
 
 
