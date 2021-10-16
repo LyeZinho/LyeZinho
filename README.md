@@ -6,7 +6,7 @@
   
  📜 Im are a programing studant  
  
- <img src="https://github.com/leopiccionia/programmicons/blob/master/src/c.svg" alt="Girl in a jacket" width="50" height="60">
+ <img src="https://github.com/leopiccionia/programmicons/blob/master/src/c.svg" alt="c" width="50" height="60">
  
  
 
