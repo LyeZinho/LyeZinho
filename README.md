@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true" alt="mmddkk6500" /></p>
 
-📖 My most used programing languages 📖
+📖 My most used programing languages
  
  
 
@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark" alt="mmddkk6500" /></p>
 
-📦 Framworks that i use 📦
+📦 Framworks that i use
 
 
 | javaScript |   c#   |   VB   |   
