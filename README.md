@@ -1,10 +1,10 @@
   <h1 align="center">Lye Zinho</h1>
   
 
-  📚 Hi im Pedro Kaleb i am a junior Developer
+  📚 Hi im Pedro Kaleb i am are junior Developer
   
   
- 📜 Im are a programing studant  
+ 📜 Im are a programing student  
  
  
  📦 My actual stack
