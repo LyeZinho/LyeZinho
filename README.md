@@ -33,6 +33,8 @@
  
 
 
+<iframe src="https://canary.discord.com/widget?id=910901121944526889&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark" alt="mmddkk6500" /></p>
