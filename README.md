@@ -1,4 +1,4 @@
-  <h1 align="center">Lye Zinho</h1>
+  <h1 align="center">◾🍃Lye Zinho🍃◾</h1>
   
   📚 Hi im Pedro Kaleb i am Developer
   
@@ -31,9 +31,6 @@
 📖 My most used programing languages
  
  
-
-
-<iframe src="https://canary.discord.com/widget?id=910901121944526889&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
 
