@@ -47,4 +47,3 @@
 
 📖My repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
