@@ -44,3 +44,8 @@
 | Boostrap   |  .NET  |  .NET  |
 | Express    |        |        |
 
+
+📖My repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinhaapi&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
