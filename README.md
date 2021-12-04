@@ -1,7 +1,7 @@
   
 
   
-   <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="Umaru" width="500" height="200">
+   <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="Umaru" width="500" height="500">
   
   
   
