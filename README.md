@@ -1,3 +1,5 @@
+  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashii.gif" alt="c" width="200" height="100">
+
   <h1 align="center">◾🍖Lye Zinho🍖◾</h1>
   
   📚 Hi im Pedro Kaleb i am Developer
@@ -8,7 +10,7 @@
  
  📦 My actual stack
  
- 
+
  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/c.svg" alt="c" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/bootstrap.svg" alt="boostrap" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/arduino.svg" alt="arduino" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/dotnet.svg" alt="dotnet" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/javascript.svg" alt="js" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/nodejs.svg" alt="nodejs" width="50" height="60">  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/python.svg" alt="python" width="50" height="60">
  
  
