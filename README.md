@@ -1,4 +1,4 @@
-  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashii.gif" align="center" alt="c" width="500" height="100">
+  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashii.gif" align="center" alt="c" width="500" height="400">
 
   <h1 align="center">◾🍖Lye Zinho🍖◾</h1>
   
