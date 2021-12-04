@@ -1,5 +1,3 @@
-  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashii.gif" align="center" alt="c" width="1000" height="400">
-
   <h1 align="center">◾🍖Lye Zinho🍖◾</h1>
   
   📚 Hi im Pedro Kaleb i am Developer
