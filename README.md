@@ -47,6 +47,7 @@
 📖 My repos 📖
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=chartreuse-dark)](https://github.com/LyeZinho/lyezinha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Banky&theme=chartreuse-dark)](https://github.com/LyeZinho/Banky)
 
 
   <img align="center" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="Umaru" width="1000" height="500">
