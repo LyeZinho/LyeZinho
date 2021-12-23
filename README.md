@@ -26,15 +26,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true" alt="mmddkk6500" /></p>
 
-### 📖 My most used programing languages 📖
  
- 
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark" alt="mmddkk6500" /></p>
 
-### 📦 Framworks that i use 📦
+### 📦 My most used frameworks 📦
 
 
 | javaScript |   c#   |   VB   |   
@@ -43,7 +39,6 @@
 | Express    |        |        |
 
 
-### 📖 My repos 📖
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=chartreuse-dark)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Banky&theme=chartreuse-dark)](https://github.com/LyeZinho/Banky)
