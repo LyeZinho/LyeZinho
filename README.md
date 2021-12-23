@@ -1,11 +1,18 @@
   
 ## Hi im Pedro Kaleb 😎
- 
-  
+
+[![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
+[![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
+
+
 - 📜 I am programing student 
+
 - 🔍 Actualy im just hunting new skills
+
 - 🗺 I have large eyesight for new programing langs
+
 - 🐱‍💻 Actwaly i work with .net(vb.net, c#...), python, js, (c, c++, c#) and SqL
+
 
 ### 📦 My actual stack 
  
