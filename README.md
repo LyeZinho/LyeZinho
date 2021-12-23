@@ -1,5 +1,5 @@
   
- <h1 align="center">◾🍖Lye Zinho🍖◾</h1>
+# 🍖Lye Zinho🍖
  
 - Hi im Pedro Kaleb i am Developer 📚
   
