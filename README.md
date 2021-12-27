@@ -26,14 +26,6 @@
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
 ![This is an image](https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true)
 
-
-
-
-<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="500"/>
-
-
-
-
 ### 📦 My most used frameworks
 
 
@@ -41,6 +33,14 @@
 | ---------- | ------ | ------ | -------- |
 | Boostrap   |  .NET  |  .NET  |  Flask   |
 | Express    |        |        |  NumPy   |
+
+
+<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="500"/>
+
+
+
+
+
 
 
 
