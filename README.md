@@ -22,10 +22,10 @@
 
  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mongodb.svg" alt="mongodb" width="50" height="60">
 
-![This is an image](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=chartreuse-dark)
+![This is an image](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun)
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
 
-![This is an image](https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=chartreuse-dark&show_icons=true)
+![This is an image](https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=outrun&show_icons=true)
 
 
 
@@ -47,8 +47,8 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=chartreuse-dark)](https://github.com/LyeZinho/lyezinha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Banky&theme=chartreuse-dark)](https://github.com/LyeZinho/Banky)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=outrun)](https://github.com/LyeZinho/lyezinha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Banky&theme=outrun)](https://github.com/LyeZinho/Banky)
 
 
 
