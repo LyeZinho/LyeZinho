@@ -23,7 +23,8 @@
  
 ### 📖 I Want to learn
 
- <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/mongodb.svg" alt="mongodb" width="50" height="60">
+ <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongodb" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="next" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" alt="ruby" width="50" height="60">
+ 
 
 ![This is an image](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun)
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
