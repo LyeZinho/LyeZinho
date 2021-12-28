@@ -1,6 +1,7 @@
-  
-<h1>😎 Hi im Pedro Kaleb </h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+are+junior+developer;and+programer+student)](https://git.io/typing-svg)
 
+
+##
 [![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
 
@@ -54,3 +55,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMDDKK6500&repo=SharpJolt&theme=outrun)](https://github.com/MMDDKK6500/SharpJolt)
 
 <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="drawing" width="800"/>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
