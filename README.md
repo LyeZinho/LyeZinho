@@ -1,5 +1,5 @@
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+are+junior+developer;and+programer+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+are+junior+developer;and+programing+student)](https://git.io/typing-svg)
 
 
 [![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
