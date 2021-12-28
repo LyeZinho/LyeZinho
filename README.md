@@ -40,10 +40,10 @@
 ### 📦 My most used frameworks
 
 
-| javaScript |   c#   |   VB   |  Python  |
-| ---------- | ------ | ------ | -------- |
-| Boostrap   |  .NET  |  .NET  |  Flask   |
-| Express    |        |        |  NumPy   |
+| javaScript |   c#   |   VB   |  Python  | HTML  |
+| ---------- | ------ | ------ | -------- | ----- |
+| Express    |  .NET  |  .NET  |  Flask   | Boostrap |
+|            |        |        |  NumPy   |       |
 
 
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="800"/>
