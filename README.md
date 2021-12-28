@@ -62,3 +62,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMDDKK6500&repo=SharpJolt&theme=outrun)](https://github.com/MMDDKK6500/SharpJolt)
 
 <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="drawing" width="800"/>
+
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark" alt="drawing" width="800"/>
