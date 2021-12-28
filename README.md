@@ -38,7 +38,7 @@
 | Express    |        |        |  NumPy   |
 
 
-<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="500"/>
+<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="800"/>
 
 
 
