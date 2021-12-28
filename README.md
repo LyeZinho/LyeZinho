@@ -5,6 +5,8 @@
 [![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U77O1P6)
+
 
 - 📜 I am programing student 
 
