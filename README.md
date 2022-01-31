@@ -16,19 +16,25 @@
 
 - 🐱‍💻 Actwaly i work with .net(vb.net, c#...), python, js, (c, c++, c#) and SqL
 
-### 📦 My actual stack 
+<details><summary> <b> ▷📚 Current stack</b></summary>
+<p>
  
  <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="csharp" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/heroku-icon.svg" alt="heroku" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" width="50" height="60">  <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html" width="50" height="60">
  
   <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="github" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="nodejs" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" alt="express" width="50" height="60"> <img  src="https://github.com/get-icon/geticon/blob/master/icons/npm.svg" alt="npm" width="50" height="60"> <img src="https://github.com/leopiccionia/programmicons/blob/master/src/dotnet.svg" alt="npm" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" alt="py" width="50" height="60">
- 
- 
- 
- 
-### 📖 I Want to learn
 
- <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongodb" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="next" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" alt="ruby" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" alt="rusty" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="java" width="50" height="60">
+</p>
+</details>
  
+ 
+ 
+<details><summary> <b> 📝learning goals </b></summary>
+<p>
+  
+ <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongodb" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="next" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" alt="ruby" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" alt="rusty" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="java" width="50" height="60">
+</p>
+  
+</details>
 
 ![This is an image](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun)
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
