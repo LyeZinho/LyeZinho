@@ -16,7 +16,7 @@
 
  📜 I am programing student 
  
- 🔍 Actualy im just hunting new skills
+ 🔍 Currently im just hunting new skills
  
  🗺 I have large eyesight for new programing skills
  
