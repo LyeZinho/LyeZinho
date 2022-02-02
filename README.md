@@ -1,4 +1,4 @@
-# 💻𝑮𝒊𝒕 𝑫𝒆𝒗 𝑷𝒓𝒐𝒇𝒊𝒍𝒆💻  
+# 𝑷𝒆𝒅𝒓𝒐 𝑲𝒂𝒍𝒆𝒃 𝑮𝒊𝒕 𝑫𝒆𝒗 𝑷𝒓𝒐𝒇𝒊𝒍𝒆
 
 
 [![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
