@@ -113,3 +113,16 @@ Contacts
 </details>
 
 
+<details><summary> <b> ●📚 𝙈𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </b></summary>
+<p>
+
+◯ Free For Speak
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=free4speak&theme=outrun)](https://github.com/LyeZinho/free4speak)
+
+◯ Iot Builders
+ 
+  - [@ThiagoShow](https://github.com/ThiagoShow)
+ 
+</p>
+</details>
