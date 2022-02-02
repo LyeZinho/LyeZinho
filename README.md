@@ -1,7 +1,5 @@
 # 💻𝑮𝒊𝒕 𝑫𝒆𝒗 𝑷𝒓𝒐𝒇𝒊𝒍𝒆💻  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
-
 
 [![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
@@ -13,6 +11,8 @@
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="800"/>
 
 # 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
 
  📜 I am programing student 
  
@@ -36,7 +36,7 @@ Contacts
   
 
 
-# 𝐒𝐤𝐢𝐥𝐥𝐬 𝐢𝐧𝐟𝐨
+# 𝑴𝒚 𝒅𝒆𝒗 𝒔𝒌𝒊𝒍𝒍𝒔
 <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="drawing" width="800"/>
 
 <details><summary><b> ●📚 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙘𝙠 </b></summary>
