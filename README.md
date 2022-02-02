@@ -1,4 +1,4 @@
-# 💻𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆💻  
+# 💻𝑮𝒊𝒕 𝑫𝒆𝒗 𝑷𝒓𝒐𝒇𝒊𝒍𝒆💻  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
 
