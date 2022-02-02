@@ -89,9 +89,12 @@ Contacts
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
 
 ![This is an image](https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=outrun&show_icons=true)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=shades-of-purple)](https://git.io/streak-stats)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark" alt="drawing" width="800"/>
 
+ 
 </p>
 </details>
   
