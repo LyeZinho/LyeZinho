@@ -92,7 +92,7 @@ Contacts
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=shades-of-purple)](https://git.io/streak-stats)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark" alt="drawing" width="800"/>
+
 
  
 </p>
@@ -129,3 +129,5 @@ Contacts
 
 </p>
 </details>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark" alt="drawing" width="800"/>
