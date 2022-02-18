@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="800"/>
+<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="700"/>
 
 # 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
 
@@ -39,7 +39,7 @@ Contacts
 
 
 # 𝑴𝒚 𝒅𝒆𝒗 𝒔𝒌𝒊𝒍𝒍𝒔
-<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="drawing" width="800"/>
+<img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png" alt="drawing" width="700"/>
 
 <details><summary><b> ●📚 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙘𝙠 </b></summary>
 <p>
