@@ -113,7 +113,7 @@ Contacts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Simple-Modular-Discord-Bot.JS&theme=outrun)](https://github.com/LyeZinho/Simple-Modular-Discord-Bot.JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMDDKK6500&repo=SharpJolt&theme=outrun)](https://github.com/MMDDKK6500/SharpJolt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMDDKK6500&repo=SharpJolt&theme=outrun)](https://github.com/LyeZinho/batalhaesports)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=batalhaesports&theme=outrun)](https://github.com/LyeZinho/batalhaesports)
 </p>
 </details>
 
