@@ -19,7 +19,7 @@
  
 - Age: `18`
 - Gender: `Haskell💀`
-- Hobbies: `Watch animes and drawing `
+- Hobbies: `Watch animes, drawing, reading mangas an programing API's`
 
 Contacts
 
