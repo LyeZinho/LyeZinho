@@ -122,8 +122,6 @@ Contacts
 <p>
 
 ◯ Free For Speak
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=batalhaesports&theme=outrun)](https://github.com/LyeZinho/free4speak)
 
 ◯ Iot Builders
  
