@@ -1,9 +1,3 @@
-# 𝑷𝒆𝒅𝒓𝒐 𝑲𝒂𝒍𝒆𝒃 𝑮𝒊𝒕 𝑫𝒆𝒗 𝑷𝒓𝒐𝒇𝒊𝒍𝒆
-
-
-
-
-
 <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif" alt="drawing" width="700"/>
 
 # 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
