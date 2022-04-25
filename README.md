@@ -39,7 +39,9 @@ Contacts
 # 𝑴𝒚 𝒅𝒆𝒗 𝒔𝒌𝒊𝒍𝒍𝒔
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png?raw=true" alt="drawing" width="700"/>
+</p>
 
+#
 
 <details><summary><b> ●📚 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙘𝙠 </b></summary>
 <p>
@@ -130,4 +132,8 @@ Contacts
 </p>
 </details>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark" alt="drawing" width="800"/>
+#
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark?raw=true" alt="drawing" width="700"/>
+</p>
+
