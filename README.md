@@ -4,7 +4,7 @@
 
 
 
-# 𝑨𝒃𝒐𝒖𝒕 𝒎𝒆
+# About me.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
 
@@ -36,14 +36,14 @@ Contacts
   
 
 
-# 𝑴𝒚 𝒅𝒆𝒗 𝒔𝒌𝒊𝒍𝒍𝒔
+# My dev skills
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png?raw=true" alt="drawing" width="700"/>
 </p>
 
 #
 
-<details><summary><b> ●📚 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙨𝙩𝙖𝙘𝙠 </b></summary>
+<details><summary><b> ●📚 My current stack </b></summary>
 <p>
  
 [![Readme Card](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/LyeZinho)
@@ -64,7 +64,7 @@ Contacts
 [![Readme Card](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyeZinho)
 
 
-𝙈𝙮 𝙢𝙤𝙨𝙩 𝙪𝙨𝙚𝙙 𝙛𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨
+My favorite frameworks
 
 | javaScript |   c#   |   VB   |  Python  | HTML  |
 | ---------- | ------ | ------ | -------- | ----- |
@@ -77,7 +77,7 @@ Contacts
  
  
  
-<details><summary> <b> ●📝 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙜𝙤𝙖𝙡𝙨 </b></summary>
+<details><summary> <b> ●📝 Learning goals </b></summary>
 <p>
   
  <img src="https://github.com/leopiccionia/programmicons/blob/master/src/reactjs.svg" alt="react" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongodb" width="50" height="60"> <img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" alt="next" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" alt="ruby" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" alt="rusty" width="50" height="60"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" alt="java" width="50" height="60">
@@ -85,7 +85,7 @@ Contacts
   
 </details>
 
-<details><summary> <b> ●📊 𝙂𝙞𝙩𝙎𝙩𝙖𝙩𝙨 </b></summary>
+<details><summary> <b> ●📊 GitStats </b></summary>
 <p>
 
 ![This is an image](https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun)
@@ -104,7 +104,7 @@ Contacts
 
 
 
-<details><summary> <b> ●📚 𝙈𝙮 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 </b></summary>
+<details><summary> <b> ●📚 My best repositorys </b></summary>
 <p>
 
 
@@ -120,7 +120,7 @@ Contacts
 </details>
 
 
-<details><summary> <b> ●📚 𝙈𝙮 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 </b></summary>
+<details><summary> <b> ●📚 My personal projects </b></summary>
 <p>
 
 ◯ Free For Speak
