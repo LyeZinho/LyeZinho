@@ -133,7 +133,5 @@ Contacts
 </details>
 
 #
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=react-dark?raw=true" alt="drawing" width="700"/>
-</p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
