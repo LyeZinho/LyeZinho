@@ -2,8 +2,6 @@
   <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif?raw=true" alt="Sublime's custom image"/>
 </p>
 
-
-
 # About me.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
@@ -102,12 +100,8 @@ My favorite frameworks
 </details>
   
 
-
-
 <details><summary> <b> ●📚 My best repositorys </b></summary>
 <p>
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=lyezinha&theme=outrun)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LyeZinho&repo=Banky&theme=outrun)](https://github.com/LyeZinho/Banky)
