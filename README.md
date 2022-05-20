@@ -12,7 +12,6 @@
  
  🗺 I have large eyesight for new programing skills
  
- 
 - Age: `18`
 - Gender: `Haskell💀`
 - Hobbies: `Watch animes, drawing, reading mangas and programing API's`
