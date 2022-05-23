@@ -67,8 +67,6 @@ My favorite frameworks
 </p>
 </details>
  
- 
- 
 <details><summary> <b> ●📝 Learning goals </b></summary>
 <p>
   
@@ -87,9 +85,6 @@ My favorite frameworks
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=shades-of-purple)](https://git.io/streak-stats)
 
-
-
- 
 </p>
 </details>
   
