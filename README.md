@@ -102,7 +102,6 @@ My favorite frameworks
 </p>
 </details>
 
-
 <details><summary> <b> ●📚 My personal projects </b></summary>
 <p>
 
