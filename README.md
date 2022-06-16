@@ -4,8 +4,6 @@
 
 # About me.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235D16B8&size=30&lines=Hi+my+name+is+Pedro;i+am+junior+developer;and+programing+student)](https://git.io/typing-svg)
-
  📜 I am programing student 
  
  🔍 Currently im just hunting new skills
