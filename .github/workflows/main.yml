@@ -17,7 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -28,16 +27,12 @@ jobs:
           # Options
           user: LyeZinho
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: repositories
           config_timezone: Europe/Lisbon
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -51,16 +46,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_traffic: yes
