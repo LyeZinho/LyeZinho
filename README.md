@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pedro Kaleb</h1>
-<h3 align="center">Back end developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=false&no-frame=true&theme=radical" alt="lyezinho" /></a> </p>
 
 # 
 
-- 🌱 I’m currently learning **Machine learning, deep learning, back end and data mining**
+- 🌱 I’m currently learning: **Machine learning, deep learning, back end and data mining**
 
-- 👨‍💻 My portifolio [www.lyepedro.studio](https://www.lyepedro.studio/)
+- 👨‍💻 My portifolio: [www.lyepedro.studio](https://www.lyepedro.studio/)
 
-- 📫 My contact **pedrokalebdej1@gmail.com**
+- 📫 My contact: **pedrokalebdej1@gmail.com**
 
-- ⚡ My interests **I like drawing and reading manga**
+- ⚡ My interests: **I like drawing and reading manga**
 
 # 
 
