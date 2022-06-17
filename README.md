@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/19154443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19154443" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrokalebdeje1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrokalebdeje1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lyepedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lyepedro" height="30" width="40" /></a>
-<a href="https://discord.gg/ssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ssss" height="30" width="40" /></a>
+<a href="https://discord.gg/5dZPVytKnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Okami comunity" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
