@@ -34,7 +34,7 @@
 
 # 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun"><img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="200"/>
+<img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-drinking.gif" alt="drawing" width="202"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&theme=outrun">
 
 <img src="https://github-readme-stats.vercel.app/api?username=LyeZinho&theme=outrun&show_icons=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=shades-of-purple">
