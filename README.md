@@ -5,9 +5,9 @@
 
 # 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning, deep learning, back end and data mining**
 
-- 👨‍💻 My portifolio [www.lyepedro.studio](www.lyepedro.studio)
+- 👨‍💻 My portifolio [www.lyepedro.studio](https://www.lyepedro.studio/)
 
 - 📫 My contact **pedrokalebdej1@gmail.com**
 
