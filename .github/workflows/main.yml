@@ -27,12 +27,20 @@ jobs:
           # Options
           user: LyeZinho
           template: classic
-          base: repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Lisbon
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -46,3 +54,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_stars: yes
+          plugin_stars_limit: 4
