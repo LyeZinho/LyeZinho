@@ -12,7 +12,6 @@
 
 - ⚡ My interests: **I like drawing and reading manga**
 
-[![Readme Card](https://img.shields.io/twitter/url?label=PedroKalebDeJe1&style=social&url=https%3A%2F%2Ftwitter.com%2FPedroKalebDeJe1)](https://github.com/LyeZinho/lyezinha)
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
 ![Readme Card](https://komarev.com/ghpvc/?username=lyezinho&label=Profile%20views&color=0e75b6&style=flat)
 # 
