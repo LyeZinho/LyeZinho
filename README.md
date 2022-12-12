@@ -34,7 +34,6 @@
 
 #
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LyeZinho&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=radical" alt="Sublime's custom image"/>
 </p>
