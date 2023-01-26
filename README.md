@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pedro kaleb de jesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro kaleb de jesus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedrokalebdej1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro kaleb de jesus" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19154443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19154443" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrokalebdeje1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrokalebdeje1" height="30" width="40" /></a>
 <a href="https://discord.gg/5dZPVytKnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Okami comunity" height="30" width="40" /></a>
