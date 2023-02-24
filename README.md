@@ -4,7 +4,7 @@
 
 # 
 
-- 🌱 I’m currently learning: **Machine learning, deep learning, back end and data mining**
+- 🌱 I’m currently learning: **Compiler desing**
 
 - 👨‍💻 My portifolio: 
 
