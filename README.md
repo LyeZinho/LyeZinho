@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning: **Compiler desing**
 
-- 👨‍💻 My portifolio: 
+- 👨‍💻 My portifolio: https://pedrojesus.vercel.app
 
 - 📫 My contact: **pedrokalebdej1@gmail.com**
 
-- ⚡ My interests: **I like drawing and reading manga**
+- ⚡ My interests: **I like drawing and reading manga, and reading light novels.**
 
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
 ![Readme Card](https://komarev.com/ghpvc/?username=lyezinho&label=Profile%20views&color=0e75b6&style=flat)
