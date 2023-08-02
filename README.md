@@ -12,8 +12,16 @@
 
 - ⚡ My interests: **I like drawing and reading manga, and reading light novels.**
 
+<p align="center"> 
+  <a href="https://github.com/LyeZinho/certificates/tree/main/certificates">
+    MyCertificates
+  </a> 
+</p>
+
+
 [![Readme Card](https://img.shields.io/github/followers/LyeZinho?label=LyeZinho&style=social)](https://github.com/LyeZinho/lyezinha)
 ![Readme Card](https://komarev.com/ghpvc/?username=lyezinho&label=Profile%20views&color=0e75b6&style=flat)
+
 # 
 
 <h3 align="left">Connect with me:</h3>
