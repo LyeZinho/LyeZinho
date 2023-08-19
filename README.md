@@ -32,6 +32,13 @@
 
 # 
 
+<p align="center">
+  <img src="https://github.com/Dryad-lang/Dryad/blob/main/assets/logo.png?raw=true" alt="Sublime's custom image" height="10%" width="10%"/>
+  <img src="https://github.com/devscafecommunity/cafe/blob/main/d7bcd594ca528d8a18074b02d43c0b28.png?raw=true" alt="Sublime's custom image" height="10%" width="10%"/>
+</p>
+<h3 align="center">Founder at Dryad Lang and Devscafé</h3>
+
+# 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=radical" alt="Sublime's custom image"/>
