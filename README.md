@@ -10,7 +10,7 @@
 
 - 📫 My contact: **pedrokalebdej1@gmail.com**
 
-- ⚡ My interests: **I like drawing and reading manga, and reading light novels.**
+- ⚡ My interests: **I like drawing, reading manga, reading and writting light novels.**
 
 <p align="center"> 
   <a href="https://github.com/LyeZinho/certificates/tree/main/certificates">
