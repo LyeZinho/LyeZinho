@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Compiler desing**
 
-- 👨‍💻 My portifolio: https://pedrojesus.vercel.app
+- 👨‍💻 My portifolio: **https://pedrokalebdev.pt**
 
 - 📫 My contact: **pedrokalebdej1@gmail.com**
 
