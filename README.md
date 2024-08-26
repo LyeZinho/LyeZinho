@@ -4,7 +4,7 @@
 
 # 
 
-- 🌱 I’m currently learning: **Compiler desing**
+- 🌱 I’m currently learning: **Networks and web**
 
 - 👨‍💻 My portifolio: **https://pedrokalebdev.pt**
 
