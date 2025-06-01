@@ -4,7 +4,7 @@
 
 # 
 
-- 🌱 I’m currently learning: **Networks and web**
+- 🌱 I’m currently learning: **Machine learning and Neural networks**
 
 - 📫 My contact: **pedrokalebdej1@gmail.com**
 
