@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning: **Networks and web**
 
-- 👨‍💻 My portifolio: **https://pedrokalebdev.pt**
-
 - 📫 My contact: **pedrokalebdej1@gmail.com**
 
 - ⚡ My interests: **I like drawing, reading manga, reading and writting light novels.**
