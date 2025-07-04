@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=false&no-frame=true&theme=radical" alt="lyezinho" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gitscore.devscafe.org/api/card/LyeZinho" alt="lyezinho" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gitscore.devscafe.org/api/banner/LyeZinho" alt="lyezinho" /></a> </p>
 
 # 
 
