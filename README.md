@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Kaleb</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=false&no-frame=true&theme=radical" alt="lyezinho" /></a> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gitscore.devscafe.org/api/banner/LyeZinho" alt="lyezinho" /></a> </p>
 
 # 
@@ -43,11 +41,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=radical" alt="Sublime's custom image"/>
 </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=false&no-frame=true&theme=radical" alt="lyezinho" /></a> </p>
 
 #
 
 <p align="center">
   <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif?raw=true" alt="Sublime's custom image"/>
 </p>
-
