@@ -22,7 +22,7 @@ I'm a passionate programmer who loves building things from scratch and bringing 
 I’m always exploring and learning to stay at the forefront of innovation, and I take pride in writing clean, efficient code.
 
 I enjoy working in collaborative environments where I can share knowledge, exchange ideas, and build meaningful software.  
-In addition to programming, I explore side projects, discover new technologies, and dive into the worlds of manga and light novels.
+In addition to programming, I explore side projects, discover new technologies, and dive into some techinical stuff and some papers.
 
 ---
 
