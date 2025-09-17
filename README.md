@@ -76,13 +76,3 @@ In addition to programming, I explore side projects, discover new technologies, 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=radical" alt="GitHub streak stats" />
 </p>
-
----
-
-<h3 align="center">📊 GitScore</h3>
-
-<p align="center">
-  <a href="https://gitscore.devscafe.org">
-    <img src="https://gitscore.devscafe.org/api/banner/LyeZinho" alt="GitScore banner" />
-  </a>
-</p>
