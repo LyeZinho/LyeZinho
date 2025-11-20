@@ -86,7 +86,6 @@ With **218 repositories** and expertise across multiple domains, I enjoy working
 ### Active Contributions
 - **Dryad-lang** (11 repositories) - Programming language founder
 - **devscafecommunity** (37 repositories) - Community contributor
-- **FerveZap** (2 repositories) - Project collaborator
 
 ---
 
