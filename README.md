@@ -1,142 +1,97 @@
 <h1 align="center">Hi 👋, I'm Pedro Kaleb</h1>
 
 <p align="center">
-  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif?raw=true" alt="Pedro Kaleb banner" />
+  <img src="https://github.com/LyeZinho/LyeZinho/blob/main/kobayashi-san-chi-no-maid-dragon-anime.gif?raw=true" alt="Pedro Kaleb banner" width="600px" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyezinho&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lyezinho&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   <a href="https://github.com/LyeZinho">
-    <img src="https://img.shields.io/github/followers/LyeZinho?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/LyeZinho?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Repositories-218-blue" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Stars-210-yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/Forks-22-green" alt="Forks" />
+  <img src="https://img.shields.io/badge/Repositories-218-orange?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-210-yellow?style=flat-square" alt="Stars" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mim
 
-**Full Stack Developer** • **Open Source Enthusiast**  
-**Founder of the [Dryad Programming Language](https://github.com/Dryad-lang/Dryad)**
+**Full Stack Developer** • **Open Source Enthusiast** **Founder of the [Dryad Programming Language](https://github.com/Dryad-lang/Dryad)**
 
-I'm a passionate programmer who loves building things from scratch and bringing ideas to life.  
-I'm always exploring and learning to stay at the forefront of innovation, and I take pride in writing clean, efficient code.
+Sou um programador apaixonado por construir soluções do zero. Com mais de **200 repositórios**, foco em escrever código limpo e eficiente, transitando entre o desenvolvimento de linguagens de programação e aplicações web modernas.
 
-With **218 repositories** and expertise across multiple domains, I enjoy working in collaborative environments where I can share knowledge, exchange ideas, and build meaningful software.
+* 🌱 **Atualmente focado:** Machine Learning e Redes Neurais.
+* ⚡ **Hobbies:** Desenhar, ler mangás e escrever light novels.
+* 📫 **Contato:** [pedrokalebdej1@gmail.com](mailto:pedrokalebdej1@gmail.com)
 
 ---
 
-## 📊 GitHub Analytics
+### 🛠️ Tech Stack
+
+#### **Linguagens & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+#### **Bancos de Dados & Ferramentas**
+`SQL` • `MongoDB` • `Redis` • `Next.js` • `Python` • `PHP` • `C++` • `Docker`
+
+---
+
+### 📊 Estatísticas e Domínios
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyeZinho&theme=radical" alt="GitHub streak stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&layout=compact&theme=radical&hide=html,css" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&layout=compact&theme=radical" />
-</p>
+| Domínio | Repositórios | Domínio | Repositórios |
+| :--- | :---: | :--- | :---: |
+| 🌐 **Web Dev** | 106 | 🧪 **Data Science** | 198 |
+| ⚙️ **Backend** | 118 | ☁️ **DevOps** | 27 |
+| 🎮 **Game Dev** | 28 | 🌳 **Linguagens** | 11 |
 
 ---
 
-## 🛠️ Technology Stack
+### 🏆 Projetos em Destaque
 
-### Primary Expertise
-**JavaScript** • **TypeScript** • **HTML** • **C#** • **CSS** • **Java** • **Rust** • **Svelte**
-
-### Domains 
-| Domain | Experience |
-|--------|------------|
-| 🏆 **Web Development**  | 106 repositories |
-| 🏆 **Data Science** | 198 repositories |
-| 🏆 **Backend Development** | 118 repositories |
-| 🏆 **DevOps** |  27 repositories |
-| 🏆 **Game Development** | 28 repositories |
+* **[Dryad Language](https://github.com/Dryad-lang/Dryad)**: Uma linguagem de programação linear focada em simplicidade.
+* **[FortiVault](https://github.com/LyeZinho/FortiVault)**: Gerenciador de senhas descentralizado e seguro.
+* **[Akaya Bot](https://github.com/LyeZinho/akaya)**: Bot de Discord com Deep Learning.
 
 ---
 
-## 🏆 Featured Projects
+### 📈 Linha do Tempo de Criação
 
-### 🌳 [Dryad Programming Language](https://github.com/Dryad-lang/Dryad)
-*Linear programming language designed for simplicity and efficiency*  
-**Stars:** 7 • **Health Score:** 25.2/100
+```text
+2022 | ██████████████████████████████ 70 repos
+2025 | ████████████████ 38 repos (Atual)
+2021 | ████████████████ 38 repos
+2024 | █████████████ 32 repos
+2023 | █████████████ 31 repos
+2020 | ███ 9 repos
 
-### 🔒 [FortiVault](https://github.com/LyeZinho/FortiVault)
-*Secure, decentralized password manager with local data storage*  
-**Stars:** 4 • **Health Score:** 36.0/100
-
-### 🤖 [Akaya](https://github.com/LyeZinho/akaya)
-*Chat Discord bot powered by Deep Learning algorithms*  
-**Stars:** 3 • **Health Score:** 33.7/100
-
-### 📚 [SciTok](https://github.com/LyeZinho/SciTok)
-*Responsive webapp that recommends scientific articles*  
-**Stars:** 3 • **Health Score:** 28.4/100
-
-### 🎯 [GitScore](https://github.com/devscafecommunity/gitscore)
-*GitHub profile scoring system based on public data*  
-**Stars:** 3 • **Health Score:** 25.4/100
-
----
-
-## 🤝 Community & Organizations
-
-### Active Contributions
-- **Dryad-lang** (11 repositories) - Programming language founder
-- **devscafecommunity** (37 repositories) - Community contributor
-
----
-
-### 🧠 Tech I've Worked With
-
-**Languages & Tools:**  
-`SQL` • `MongoDB` • `Redis` • `React.js` • `Next.js` • `JavaScript` • `Node.js` • `C#` • `Python` • `PHP` • `C` • `C++` • `TypeScript` • `HTML` • `CSS` • `Java` • `Rust` • `Svelte`
-
----
-
-## 📈 Development Activity
-
-### Repository Creation Timeline
-```
-2020 |███                            9 repos
-2021 |████████████████               38 repos
-2022 |██████████████████████████████ 70 repos
-2023 |█████████████                  31 repos
-2024 |█████████████                  32 repos
-2025 |████████████████               38 repos
 ```
 
-- 🌱 Currently learning: **Machine Learning and Neural Networks**
-- ⚡ Interests: **Drawing, reading manga, and writing light novels**
-- 📫 Contact: **pedrokalebdej1@gmail.com**
-
----
-
-<h3 align="center">🔗 Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedrokalebdej1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/19154443" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📜 Certificates</h3>
-
-<p align="center">
-  <a href="https://github.com/LyeZinho/certificates/tree/main/certificates">
-    View My Certificates
-  </a>
-</p>
-
 ---
 
 <p align="center">
-  <i>🚀 Passionate about building innovative solutions and contributing to the developer community</i>
+<a href="https://www.linkedin.com/in/pedrokalebdej1/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="https://github.com/LyeZinho/certificates/tree/main/certificates" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Meus_Certificados-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgooglescholar%26logoColor%3Dblack" />
+</a>
 </p>
+
+<p align="center">
+<i>🚀 Criando o futuro, um commit de cada vez.</i>
+</p>
+
