@@ -22,7 +22,7 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 
 * 🚀 **Top Project:** Creator of **Dryad**, a Rust-based interpreted language with its own package manager (Oak).
 * 🌱 **Learning:** Deepening expertise in Machine Learning, Neural Networks, and IoT.
-* ⚡ **Stats:** Over 200 repositories focusing on clean architecture and performance.
+* ⚡ **Stats:** Over 200 repositories focusing on clean architecture and performance, and some random projects.
 * 📫 **Contact:** [pedrokalebdej1@gmail.com](mailto:pedrokalebdej1@gmail.com)
 
 ---
