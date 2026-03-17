@@ -50,12 +50,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&layout=compact&theme=radical&hide=html,css" />
 </p>
-
-| Domínio | Repos | Domínio | Repos |
-| :--- | :---: | :--- | :---: |
-| 🌐 **Web Dev** | 106 | 🧪 **Data Science** | 198 |
-| ⚙️ **Backend** | 118 | 🌳 **Linguagens** | 11 |
-
 ---
 
 ### 🏆 Featured Projects
