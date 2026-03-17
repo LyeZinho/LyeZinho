@@ -79,15 +79,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedrokalebdej1/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://github.com/LyeZinho/certificates/tree/main/certificates" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Certificates-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgooglescholar%26logoColor%3Dblack" />
-</a>
-</p>
-
-<p align="center">
 <i>🚀 Building the future, one commit at a time.</i>
 </p>
 
