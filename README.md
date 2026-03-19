@@ -70,8 +70,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 
 ```
 
----
-
 <p align="center">
 <i>🚀 Building the future, one commit at a time.</i>
 </p>
