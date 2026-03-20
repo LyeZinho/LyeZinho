@@ -57,7 +57,7 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 
 * **[Dryad Language](https://github.com/Dryad-lang/Dryad)**: A Rust-based language featuring Async/Await, OOP, and a custom GUI library (IPE).
 * **[FortiVault](https://github.com/LyeZinho/FortiVault)**: A decentralized, high-security password manager.
-* **[Akaya Bot](https://github.com/LyeZinho/akaya)**: Discord integration utilizing Deep Learning for advanced interactions.
+* **[vox chat](https://github.com/LyeZinho/akaya)**: Discord integration utilizing Deep Learning for advanced interactions.
 
 ---
 
