@@ -21,7 +21,7 @@
 Software Developer based in Portugal with a focus on building enterprise-grade tools, compilers, and scalable web applications. Currently engineering backend solutions at **Doutor Vida** and evolving the Dryad ecosystem.
 
 * 🚀 **Top Project:** Creator of **Dryad**, a Rust-based interpreted language with its own package manager (Oak).
-* 🌱 **Learning:** Deepening expertise in Machine Learning, Neural Networks, and IoT.
+* 🌱 **Learning:** Deepening expertise in Machine Learning, Neural Networks, and math models.
 * ⚡ **Stats:** Over 200 repositories focusing on clean architecture and performance, and some random projects.
 * 📫 **Contact:** [pedrokalebdej1@gmail.com](mailto:pedrokalebdej1@gmail.com)
 
