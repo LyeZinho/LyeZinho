@@ -68,7 +68,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 2025 | ████████████████ 38 repos (Active)
 2021 | ████████████████ 38 repos
 2024 | █████████████ 32 repos
-
 ```
 
 <p align="center">
