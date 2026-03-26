@@ -44,15 +44,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyeZinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyeZinho&layout=compact&theme=radical&hide=html,css" />
-</p>
-
----
-
 ### 🏆 Featured Projects
 
 * **[Dryad Language](https://github.com/Dryad-lang/Dryad)**: A Rust-based language featuring Async/Await, OOP, and a custom GUI library (IPE).
@@ -60,15 +51,6 @@ Software Developer based in Portugal with a focus on building enterprise-grade t
 * **[vox chat](https://github.com/LyeZinho/akaya)**: Discord integration utilizing Deep Learning for advanced interactions.
 
 ---
-
-### 📈 Development Timeline
-
-```text
-2022 | ██████████████████████████████ 70 repos
-2025 | ████████████████ 38 repos (Active)
-2021 | ████████████████ 38 repos
-2024 | █████████████ 32 repos
-```
 
 <p align="center">
 <i>🚀 Building the future, one commit at a time.</i>
