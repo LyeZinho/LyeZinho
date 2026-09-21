@@ -6,8 +6,8 @@
 ### 🏆 Featured Projects
 
 * **[Dryad Language](https://github.com/Dryad-lang/Dryad)**: A Rust-based language featuring Async/Await, OOP, and a custom GUI library (IPE).
-* **[FortiVault](https://github.com/LyeZinho/FortiVault)**: A decentralized, high-security password manager.
-* **[vox chat](https://github.com/LyeZinho/akaya)**: Discord integration utilizing Deep Learning for advanced interactions.
+* **[Caffeine](https://github.com/devscafecommunity/caffeine)**: Fully open source game engine built from scratch.
+* **[vox chat](https://github.com/LyeZinho/vox)**: P2P Encripted chat.
 
 ---
 
