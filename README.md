@@ -7,6 +7,7 @@
 
 * **[Dryad Language](https://github.com/Dryad-lang/Dryad)**: A Rust-based language featuring Async/Await, OOP, and a custom GUI library (IPE).
 * **[Caffeine](https://github.com/devscafecommunity/caffeine)**: Fully open source game engine built from scratch.
+* **[Caffeine](https://github.com/devscafecommunity/WaveShaper)**: A minimalist, high-quality digital audio workstation (DAW).
 * **[vox chat](https://github.com/LyeZinho/vox)**: P2P Encripted chat.
 
 ---
